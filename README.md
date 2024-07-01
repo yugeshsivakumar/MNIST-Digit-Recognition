@@ -34,10 +34,10 @@ The dataset will be automatically downloaded when you run the notebook or script
 jupyter notebook notebooks/main.ipynb
 ```
 ## Train the model:
-You can train the model by running the scripts in the src directory or by following the steps in the Jupyter notebook.
+You can train the model by following the steps in the Jupyter notebook.
 
 ## Model
-The model used in this project is a convolutional neural network (CNN) implemented using TensorFlow and Keras. It consists of several convolutional layers followed by fully connected layers.
+The model used in this project is a convolutional neural network (CNN) implemented using TensorFlow and Keras.
 
 ## Run the Application
 Start the Flask app:
