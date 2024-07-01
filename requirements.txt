@@ -3,4 +3,5 @@ matplotlib
 tensorflow                 
 numpy
 tensorflow-gpu
+flask
               
