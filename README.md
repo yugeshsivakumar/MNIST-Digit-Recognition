@@ -31,7 +31,7 @@ The dataset will be automatically downloaded when you run the notebook or script
 
 ## Run the Jupyter notebook:
 ```bash
-jupyter notebook notebooks/main.ipynb
+jupyter notebook notebooks/train.ipynb
 ```
 ## Train the model:
 You can train the model by following the steps in the Jupyter notebook.
