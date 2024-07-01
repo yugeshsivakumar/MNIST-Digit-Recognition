@@ -39,8 +39,21 @@ You can train the model by running the scripts in the src directory or by follow
 ## Model
 The model used in this project is a convolutional neural network (CNN) implemented using TensorFlow and Keras. It consists of several convolutional layers followed by fully connected layers.
 
+## Run the Application
+Start the Flask app:
+```bash
+python app.py
+```
+Access the application in your web browser at http://localhost:5000/.
+
 ## Results
 The final model achieves an accuracy of 98.99% on the MNIST test set.
+
+After running app.py, navigate to http://localhost:5000/ to access a canvas where you can draw digits. Submit your drawing to see how accurately my model predicts the digit.
+
+![image](https://github.com/yugeshsivakumar/MNIST-Digit-Recognition/assets/156910899/d68cf617-228d-4d3d-b93a-a1ca627e2b66)
+
+
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
